@@ -21,6 +21,6 @@
   <code> <img title="DART" height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" /> </code>
   <br/>
 <h3 align="left">Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=princevanani9&count_private=true&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nirav-jivani&count_private=true&show_icons=true&theme=radical"/>
 <h3 align="left">Most used language:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevanani9&show_icons=true&theme=radical"/>
